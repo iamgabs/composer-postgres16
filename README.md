@@ -4,7 +4,7 @@ DB Composer is a simple tool to quickly spin up local database instances using D
 
 ## 📹 Demo
 
-[![DB Composer Execution](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://github.com/iamgabs/database-compose/assets/DB-Composer.mp4)
+[![DB Composer Execution](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://github.com/iamgabs/database-composer/blob/main/assets/DB-Composer.mp4)
 
 > Click the image to watch the demo.
 
